@@ -4,7 +4,7 @@ title:  "Food microbial fluxes under the magnifying glass of multi-omic data int
 date:   2023-10-18 15:50:07
 categories: publication
 members_tag: Stéphane Chaillou, Simon Poirier, Marie-Christine Champomier-Vergès
-Projects_tag: redlosses
+projects_tag: redlosses
 description: "publication in Frontiers in microbiology"
 image: '/img/2023_news_frontiers.png'
 published: true
