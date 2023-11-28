@@ -3,6 +3,7 @@ layout: post
 title:  "Advancing Microbiome Research: Insights from the 4th Polepharma Microbiomics Days"
 date:   2023-11-23 8:50:07
 categories: congress
+members_tag: Julien Tap
 description: "Julien gave a conference during the last Pole Pharma edition"
 image: https://performanceenvironnementale.polepharma.com/wp-content/uploads/sites/8/2020/02/POLEPHARMA_Logo_V2.png
 published: true

@@ -1,10 +1,11 @@
 ---
-title: Stephane Chaillou
+title: Stéphane Chaillou
 subtitle: Research Director 
 description: member card
 layout: member
 image: /img/CHAILLOU-STEPHANE-INRAe.jpg
 rank: 3
+news: true
 features:
     - label: stephane.chaillou[at]inrae.fr
       icon: fa-regular fa-envelope

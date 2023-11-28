@@ -3,6 +3,8 @@ layout: post
 title:  "Third scientific meeting of ANR metasimfood project in Palaiseau"
 date:   2023-07-04 18:30:00
 categories: meeting
+members_tag: Stéphane Chaillou, Marie-Christine Champomier-Vergès, Julien Tap, Colin Tinsley, Elham Karimi, Pierre Renault, Nacer Mohellibi
+projects_tag: metasimfood
 description: "Third scientific meeting of anr metasimfood project."
 image: '/img/metasimfood_palaiseau.jpg'
 published: true

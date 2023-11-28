@@ -3,6 +3,7 @@ layout: post
 title:  "Ferment'IA: Bridging the World of Fermented Foods with Artificial Intelligence"
 date:   2023-09-13 20:30:07
 categories: congress
+members_tag: Julien Tap, Marie-Christine Champomier-Vergès
 description: "Ferment'IA: A review of the colloquium discussing the convergence of fermented foods, microbial ecology, and artificial intelligence"
 image: '/img/fermentIA.jpg'
 published: true

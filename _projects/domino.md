@@ -9,6 +9,7 @@ image: img/eu_domino_logo.png
 start: 2023-03-01
 end: ongoing
 category: Europe
+news: true
 features:
     - label: stephane.chaillou[at]inrae.fr
       icon: fa-regular fa-envelope

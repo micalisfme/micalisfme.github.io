@@ -3,6 +3,7 @@ layout: post
 title:  "LABIP Expert Workshop Microbial Diversity & Health"
 date:   2023-06-09 18:30:00
 categories: meeting
+members_tag: Julien Tap
 description: "Julien Tap presented his work about personalized nutrition and feremented food effect on gut microbiome"
 image: 'https://labip.com/wp-content/uploads/2023/04/cropped-LABIP_lr.jpg'
 published: true

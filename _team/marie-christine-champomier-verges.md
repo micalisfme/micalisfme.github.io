@@ -4,6 +4,7 @@ subtitle: Research Director Team leader (DR1)
 description: member card
 #product_code: ABC124
 layout: member
+news: true
 image: http://www.micalis.fr/var/internet6_national_micalis/storage/images/poles-et-equipes/pole-ecosystemes-alimentaires-et-digestifs/ecologie-microbienne-des-aliments-marie-champomier-verges/membres-de-l-equipe/marie-christine-champomier-verges/48908-3-fre-FR/Marie-Christine-Champomier-Verges_inra_image.jpg
 rank: 1
 features:

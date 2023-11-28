@@ -3,6 +3,8 @@ layout: post
 title:  "Bringing synthetic Ecology in the field of food microbiology"
 date:   2023-10-09 11:30:07
 categories: congress
+members_tag: Stéphane Chaillou
+Projects_tag: Domino
 description: "Stéphane was welcome as a guest and gave an introduction conference in the session dedicated to microbes and functional foods"
 image: '/img/2023_news_sfm.png'
 published: true

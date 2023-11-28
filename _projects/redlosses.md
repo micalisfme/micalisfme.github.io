@@ -6,6 +6,7 @@ image: img/redlosses_research.png
 start: 2018-01-01
 end: 2021-12-31
 category: National
+news: true
 features:
     - label: stephane.chaillou[at]inrae.fr
       icon: fa-regular fa-envelope

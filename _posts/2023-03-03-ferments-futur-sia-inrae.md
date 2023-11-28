@@ -3,6 +3,8 @@ layout: post
 title:  "Ferments du futur at SIA 2023"
 date:   2023-03-03 11:30:00
 categories: communication
+members_tag: Marie-Christine Champomier-Vergès
+projects_tag: Ferments of the Future Grand Challenge
 description: "FME SIA ferments du futur"
 image: '/img/table_ronde_SIA2023.jpg'
 published: true

@@ -3,6 +3,8 @@ layout: post
 title:  "Domino project shines at PIMENTO Forum"
 date:   2023-05-26 18:30:00
 categories: meeting
+members_tag: Marie-Christine Champomier-Vergès, Stéphane Chaillou
+projects_tag: PIMENTO, Domino
 description: "DOMINO talk at PIMENTO"
 image: '/img/pimento_lyon.jpg'
 published: true

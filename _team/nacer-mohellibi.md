@@ -4,6 +4,7 @@ subtitle: Research engineer in Bioinformatics
 description: This is a product description
 #product_code: ABC124
 layout: member
+news: true
 image: "/img/NMohellibi.jpg"
 rank: 6
 features:

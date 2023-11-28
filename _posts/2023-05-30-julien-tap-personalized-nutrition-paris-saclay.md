@@ -3,6 +3,7 @@ layout: post
 title:  "1st Scientific Day of the Food Science, Nutrition, and Human Nutrition Program"
 date:   2023-05-30 18:30:00
 categories: meeting
+members_tag: Julien Tap
 description: "Julien Tap presented his work about personalized nutrition"
 image: '/img/biosphera_campus.jpg'
 published: true

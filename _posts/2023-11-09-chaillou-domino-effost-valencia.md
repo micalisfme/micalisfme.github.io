@@ -3,6 +3,8 @@ layout: post
 title:  "#Microbes4SustainableFoods cluster at the EFFoST conference in Valencia"
 date:   2023-11-09 8:50:07
 categories: congress
+members_tag: Stéphane Chaillou
+projects_tag: Domino
 description: "Stéphane participated to the #EFFOST2023 conference in Valencia"
 image: 'https://www.effost.org/shortcuts/ID_EFFoST-Logo-FC-top.png'
 published: true

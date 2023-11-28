@@ -4,6 +4,7 @@ subtitle: Research Scientist
 description: member card
 #product_code: ABC124
 layout: member
+news: true
 image: /img/Photo_ElhamKARIMI.png
 rank: 8
 features:

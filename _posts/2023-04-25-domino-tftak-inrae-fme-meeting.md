@@ -3,6 +3,8 @@ layout: post
 title:  "Meeting with TFTAK for DOMINO Project"
 date:   2023-04-25 11:30:00
 categories: meeting
+members_tag: Stéphane Chaillou
+projects_tag: Domino
 description: "Meeting with TFTAK for DOMINO Project"
 image: '/img/post_230427_thalinn.png'
 published: true

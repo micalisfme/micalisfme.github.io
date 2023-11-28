@@ -3,6 +3,8 @@ layout: post
 title:  "1st annual meeting of metasimfood project."
 date:   2023-01-12 17:50:07
 categories: meeting
+members_tag: Stéphane Chaillou, Pierre Renault, Colin Tinsley, Julien Tap, Marie-Christine Champomier-Vergès
+projects_tag: metasimfood
 description: "2023, January 12. Illkirsh (near Strasbourg). 1st annual meeting of metasimfood project."
 image: 'https://www.metasimfood.inrae.fr/sites/default/files/metasimfood/images/news_event_02_front.png'
 #hero_image: 'https://www.metasimfood.inrae.fr/sites/default/files/metasimfood/images/news_event_02_front.png'

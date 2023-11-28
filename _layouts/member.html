@@ -72,3 +72,41 @@ layout: default
 
 </div>
 
+
+
+{% if page.news %}
+<div class="content">
+    <p class="title is-4">Last related news</p>
+    <div class="card">
+        {% assign count = 0 %}
+        {% for post in site.posts %}
+            {% if post.members_tag contains page.title %}
+                {% if count < 3 %}
+                    <div class="columns is-vcentered">
+                        <!-- Image Column -->
+                        <div class="column is-3">
+                            <figure class="image">
+                                <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+                            </figure>
+                        </div>
+
+                        <!-- Text Column -->
+                        <div class="column is-9">
+                            <p class="title is-4"><a href="{{ post.url }}">{{ post.title }}</a></p>
+                            <p class="subtitle is-6">{{ post.date | date: "%b %d, %Y" }}</p>
+                            <div class="content">
+                                {{ post.excerpt }}
+                            </div>
+                        </div>
+                    </div>
+                    {% assign count = count | plus: 1 %}
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>
+{% endif %}
+
+
+
+

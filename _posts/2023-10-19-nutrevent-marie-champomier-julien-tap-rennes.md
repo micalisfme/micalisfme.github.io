@@ -3,6 +3,8 @@ layout: post
 title:  "Key Takeaways from NutrEvent 2023 Rennes Participation"
 date:   2023-10-19 8:50:07
 categories: congress
+members_tag: Julien Tap, Marie-Christine Champomier-Vergès
+projects_tag: PIMENTO
 description: "Food Microbial Ecology Lab Update from NutrEvent"
 image: '/img/2023_NUTREVENT_banniere_LinkedIn_FR.jpg'
 published: true

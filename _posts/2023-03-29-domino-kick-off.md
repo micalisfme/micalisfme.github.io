@@ -3,6 +3,8 @@ layout: post
 title:  "DOMINO kick-off!"
 date:   2023-03-29 11:30:00
 categories: meeting
+members_tag: Stéphane Chaillou, Marie-Christine Champomier-Verges, Julien Tap, Nacer Mohellibi, Alice Lima, Pierre Renault, Colin Tinsley
+projects_tag: Domino
 description: "DOMINO kick off"
 image: '/img/chaillou_domino.jpg'
 published: true
