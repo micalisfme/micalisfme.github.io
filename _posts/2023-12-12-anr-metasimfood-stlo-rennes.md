@@ -3,7 +3,7 @@ layout: post
 title:  "Fourth scientific meeting of ANR metasimfood project in Rennes"
 date:   2023-12-12 18:50:07
 categories: meetings
-members_tag: Julien Tap, Stephane Chaillou, Elham Karimi, Marie-Christine Champomier-Vergès, Nacer Mohellibi, Colin Tinsley, Alice Lima
+members_tag: Julien Tap, Stéphane Chaillou, Elham Karimi, Marie-Christine Champomier-Vergès, Nacer Mohellibi, Colin Tinsley, Alice Lima
 description: "Fourth scientific meeting of ANR metasimfood project in Rennes"
 image: /img/news_event_06_front.png
 published: true
