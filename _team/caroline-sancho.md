@@ -15,6 +15,10 @@ features:
     #  icon: fa-brand fa-linkedin
     #  icon_brand: true
     #  link: https://www.linkedin.com/in/william-bourelle/
+    - label: GitHub
+      icon: fa-brand fa-github
+      icon_brand: true
+      link: https://github.com/SanchoCaroline
 ---
 
 
