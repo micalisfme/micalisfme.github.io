@@ -1,5 +1,5 @@
 ---
-title: Inès drouard
+title: Inès Drouard
 subtitle: Research technician
 description: Microbiology
 layout: member
