@@ -31,3 +31,6 @@ The project involves a collaborative effort with several partners:
 - Simon Labarthe and Clémence Frioux provide expertise in mathematical modeling of microbiome metabolism, drawing from their recent work on a digital twin model for cheese fermentation.
 
 This project aims to set a new standard in fermented vegetable juices production, focusing on quality and efficiency, by integrating cutting-edge digital and microbial technologies.
+
+
+FermenTwin is funded by [INRAE DIGIT-BIO](https://digitbio.hub.inrae.fr/metaprogramme-digit-bio)
