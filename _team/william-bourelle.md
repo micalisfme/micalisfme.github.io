@@ -4,6 +4,7 @@ subtitle: Microbial Ecology Engineer
 description: Design Engineer
 layout: member
 image: /img/william_bourelle.jpg
+news: true
 rank: 10
 features:
     - label: william.bourelle[at]inrae.fr

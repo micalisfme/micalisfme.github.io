@@ -5,6 +5,7 @@ description: Engineer in Bioprocess and Microbial Ecology
 layout: member
 image: /img/alice_lima.jpg
 rank: 9
+news: true
 features:
     - label: alice.lima[at]inrae.fr
       icon: fa-regular fa-envelope
