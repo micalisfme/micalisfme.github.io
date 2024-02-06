@@ -4,7 +4,7 @@ subtitle: Research Director
 description: member card
 layout: member
 news: true
-image: http://www.micalis.fr/var/internet6_national_micalis/storage/images/poles-et-equipes/pole-ecosystemes-alimentaires-et-digestifs/ecologie-microbienne-des-aliments-marie-christine-champomier-verges/membres-de-l-equipe/pierre-renault/44209-3-fre-FR/Pierre-Renault_inra_image.jpg
+image: /img/Pierre-Renault_inrae_image.jpg
 rank: 2
 features:
     - label: Pierre.Renault.2[at]inrae.fr
