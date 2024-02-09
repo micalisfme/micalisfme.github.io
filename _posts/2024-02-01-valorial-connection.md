@@ -13,7 +13,7 @@ published: true
 
 The first Valorial’Connection event of the year was held at Lamballe this 1st February. It gathered more than 50 academic and AgriFood industry partners on site and as many online.  Stéphane was invited to give a talk for presenting the EU DOMINO project and to talk, more specifically, on the role of data sciences in fermented foods area. There was a lot a very animated discussions on the subject and also on precision fermentation. The day was efficiently and nicely concluded by a visit of BIOREA company producing microalgaes for various food, feed and other markets.
 
-![](https://www.frontiersin.org/files/Articles/1286661/fmicb-14-1286661-HTML/image_m/fmicb-14-1286661-g002.jpg)
+![https://hal.science/hal-04446192](/img/2024_news_valorial.png)
 
 
 
