@@ -16,7 +16,7 @@ As part of the [DOMINO](/projects/domino/) project, 6 living labs will be set up
 
 ![](/img/domino_living_labs_focus_group_france.jpg)
 
-In France, the first Living Labs have just been launched, involving FME ([Marie](/team/marie-christine-champomier-verges/))  Sayfood (Lucia Espinosa-Brisset, Corina Veron, Pascal Bonnarme and Anne Saint-Eve)  and IRD Montpellier (Christel Humblot, Bastien Renard), hosted by our colleagues from Sayfood at Agroparistech Saclay, thanks for their warm welcome and thanks to  consumers for sharing their expectations and views. 
+In France, the first Living Labs have just been launched, involving FME ([Marie-Christine Champomier-Vergès](/team/marie-christine-champomier-verges/))  Sayfood (Lucia Espinosa-Brisset, Corina Veron, Pascal Bonnarme and Anne Saint-Eve)  and IRD Montpellier (Christel Humblot, Bastien Renard), hosted by our colleagues from Sayfood at Agroparistech Saclay, thanks for their warm welcome and thanks to  consumers for sharing their expectations and views. 
 
 Fruitful and inspiring !
 
