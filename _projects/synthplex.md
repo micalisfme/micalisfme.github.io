@@ -6,6 +6,7 @@ image: img/synthplex_banner.png
 start: 2023-12-01
 end: 2025-11-30
 category: National
+news: true
 features:
     - label: julien.tap[at]inrae.fr
       icon: fa-regular fa-envelope
