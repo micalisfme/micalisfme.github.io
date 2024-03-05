@@ -21,3 +21,8 @@ Stéphane Chaillou (INRAE), as coordinator of [#DominoEU](/project/domino/) proj
 
 A specific great snapshop from #DominoEU colleagues (Emmanuelle, Debora and Dascha) as #microbiome ambassadors ! 
 
+{% include youtube.html video="5aqsPWw7_DY" time=31064 %}
+
+
+
+
