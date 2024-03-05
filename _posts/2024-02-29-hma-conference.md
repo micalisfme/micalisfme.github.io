@@ -4,6 +4,7 @@ title:  "What’s the future on human Microbiome Research?"
 date:   2024-02-29 20:50:07
 categories: congress
 members_tag: Stéphane Chaillou
+projects_tag: Domino
 description: "Stéphane Chaillou participated in the last Human Microbiome Action panel discussion"
 image: /img/2024_news_HMA.png
 published: true

@@ -4,6 +4,7 @@ title:  "Insights from Metabolomics and Fermented Foods 2024"
 date:   2024-02-29 19:50:07
 categories: congress
 members_tag: Julien Tap
+projects_tag: SynthPlex, metasimfood
 description: "Julien gave a conference organized by the Netherland Metabolomics Centre"
 image: /img/fermented_food_metabolomics.png
 published: true
