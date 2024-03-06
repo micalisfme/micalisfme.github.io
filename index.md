@@ -4,7 +4,7 @@ subtitle: INRAE | Micalis institute | Université Paris Saclay
 layout: page
 callouts: home_callouts
 hero_image: /img/FME_panel_scientific_draft_V3.png
-hero_darken: true
+hero_darken: false
 show_sidebar: true
 hero_link: positions
 hero_link_text: Join us
@@ -27,8 +27,10 @@ Our research uses two approaches. The first of these consists of large and ambit
 The metabolic interactions between microbial species are characterized by links between dominant and sub-dominant species or successive populations. The populations may be spatially structured and may also be influenced by environmental factors. The simple mapping of populations and of metagenomes is not sufficient to decipher the underlying interactions that operate within microbial communities during their growth in food, Our scientific approach focuses on the development of metatranscriptomic analyses using computational tools and specifically developed databases. Mapping of the transcriptomes to a database containing several hundred metabolic functions provides a detailed measure of the metabolic functions expressed at different levels of the community, from the species to the whole microbial consortium. In this way, we are able to interpret the interactions taking place at different scales. Our work also involves using non-targeted metabolomics data and integrating these multivariate data using statistical tools. Our work has thus far focused on studying the interactions associated with the spoilage of meat and seafood products and how the reduction of chemical preservatives (salt, nitrite, lactate) could influence these interactions.
 
 ## 3. Towards synthetic food microbial ecology.
+
 The object of this axis to develop new microbial consortia to address health or sustainability issues by taking advantage of knowledge gained on microbial interactions and strains genomic sequences. To this end we are developing strategies which will allow us to verify the observations made "*in alimentariis*" and the hypotheses built from these data on metabolic interactions. This involves the design of simplified food systems and the development of tools for modelling the behaviour of artificial microbial consortia. Our "synthetic ecology approach" aims to elaborate hypotheses on the possible metabolic interactions within a microbial community, and to build an experimental approach whose objective is to test them. It is, therefore, a repetitive, iterative strategy whose results are used to reformulate and refine the hypotheses which are then retested experimentally, the aim being always to improve the level of understanding of the interactions when compared to data obtained from real-life food ecosystems.
 
 ## 4. Food-Gut interactions.
+
 Food microbes can have major positive, or negative, impacts on the production of various fermented foods, and in the human gut and digestive health. Although a broad diversity of microbial communities can be identified across many fermented foods, significant information about their contribution to human health is lacking. We aim to understand how diversity of dietary microbes, contribute to a healthy gut microbiome and how the long-term consumption of fermented food contributes to a beneficial health impact. Our objective is to use food and gut microbiome data to allow a more relevant health-orientated design of microbial consortia for fermented food and to identify biomarkers related to the health effect of these fermented foods.
 

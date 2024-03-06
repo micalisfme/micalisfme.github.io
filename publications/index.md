@@ -4,7 +4,7 @@ title: Publications
 layout: page
 #callouts: home_callouts
 hero_image: /img/FME_Banner_website_V3.png
-hero_darken: fasle
+hero_darken: false
 show_sidebar: false
 sitemap:
   exclude: 'yes'
