@@ -12,7 +12,9 @@ published: true
 ---
 
 
-The [#DominoEU](/projects/domino/) project consortium met in Tallin, Estonia, to discuss the results of the first year. 
+
+The [#DominoEU](/projects/domino/) project consortium met in Tallinn, Estonia, to discuss the results of the first year. 
+
 
 ![](/img/2024_news_domino_1st_meeting.png)
 
