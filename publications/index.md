@@ -4,13 +4,13 @@ title: Publications
 layout: page
 #callouts: home_callouts
 hero_image: /img/FME_Banner_website_V3.png
-hero_darken: false
+hero_darken: fasle
 show_sidebar: false
 sitemap:
   exclude: 'yes'
 ---
 
-*Last extraction 2024-03-01 00:35:13.636686*
+*Last extraction 2024-04-01 00:36:53.077163*
 
 <span class="csl-left-margin">1.
 </span><span class="csl-right-inline">Kothe, C. I. *et al.* [Halomonas
