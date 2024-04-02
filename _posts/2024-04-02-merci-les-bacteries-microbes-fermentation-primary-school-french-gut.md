@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Teaching Kids about the Microbial World: Merci les bactéries !"
-date:   2024-04-02 17:50:07
+date:   2024-04-02 15:50:07
 categories: teaching
 members_tag: Julien Tap
 description: "In a unique venture at a primary school in the southern suburbs of the Paris region, the Food Microbial Ecology Team and the PhylHom team united to teach microbiology, fermentation, and the gut microbiome to curious young minds"
