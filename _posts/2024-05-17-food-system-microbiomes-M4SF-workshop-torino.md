@@ -5,7 +5,7 @@ date:   2024-05-17 19:50:07
 categories: workshop
 members_tag: Julien Tap, Stéphane Chaillou
 description: "Food System conference Microbes4SustainableFood"
-image: '/img/microbes_primary_school_french_gut_microbiota.png'
+image: '/img/2024_news_workshop_FSMconference_Torino.png'
 published: true
 #canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html
 ---
