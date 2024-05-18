@@ -10,7 +10,7 @@ published: true
 #canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html
 ---
 
-Last Friday 17th of May, in the frame of the 1st Food System Conference in Torino (https://www.foodsystemsmicrobiomes.org/), Stéphane Chaillou organized the second clustering activity of the #Microbes4SustainableFoods cluster of EU projects (#DominoEU, #HealthFerm, #Pimento ca20128, #Wheatbiome, #Tribiome and #Microbes) on the Friday afternoon after the conference closure. 
+Last Friday 17th of May, in the frame of the 1st [Food System Conference](https://www.foodsystemsmicrobiomes.org/) in Torino , Stéphane Chaillou organized the second clustering activity of the #Microbes4SustainableFoods cluster of EU projects (#DominoEU, #HealthFerm, #Pimento ca20128, #Wheatbiome, #Tribiome and #Microbes) on the Friday afternoon after the conference closure. 
 
 
 ![](/img/2024_news_workshop_FSMconference_Torino.png)
