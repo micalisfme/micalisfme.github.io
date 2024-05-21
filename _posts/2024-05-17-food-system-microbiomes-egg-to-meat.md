@@ -10,8 +10,7 @@ published: true
 #canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html
 ---
 
-Last week, in the frame of the 1st [Food System Conference in Torino](https://www.foodsystemsmicrobiomes.org/), Stéphane was pleased to show for the first time the results of the [Holoflux egg-to-meat project](https://eng-holoflux.hub.inrae.fr/vertical-headings/our-actions/exploratory-projects/exploraty-project-eggtomeat-2021-2024).  
-
+Last week, in the frame of the 1st [Food System Conference in Torino](https://www.foodsystemsmicrobiomes.org/), Stéphane was pleased to show for the first time the results of the [Holoflux egg-to-meat project](https://eng-holoflux.hub.inrae.fr/vertical-headings/our-actions/exploratory-projects/exploraty-project-eggtomeat-2021-2024).
 
 
 ![](/img/2024_news_egtm_talks_FSMconference_Torino.png)
