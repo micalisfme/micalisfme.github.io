@@ -13,7 +13,7 @@ published: true
 
 Happy to share our last article published online last week 15th of May in [Microbiology Spectrum](https://doi.org/10.1128/spectrum.00312-24)[^1]. 
 
-![](https://journals.asm.org/cms/10.1128/spectrum.00312-24/asset/3fc7faa3-827e-47b7-8258-c0138b4a1986/assets/images/large/spectrum.00312-24.f001.jpg)
+![](https://www.biorxiv.org/content/biorxiv/early/2023/11/14/2023.11.10.566590/F1.large.jpg)
 
 This study being part of Romane Junker PhD (MaIAge/Micalis/CIRM-BIA laboratories). In this work, we show that the re-use of public 16S amplicon dataset can bring new understanding in the dynamic microbial ecology of fermented vegetables.   
 
