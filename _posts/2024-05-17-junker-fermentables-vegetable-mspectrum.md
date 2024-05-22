@@ -18,7 +18,7 @@ Happy to share our last article published online last week 15th of May in [Micro
 
 This study being part of Romane Junker PhD (MaIAge/Micalis/CIRM-BIA laboratories). In this work, we show that the re-use of public 16S amplicon dataset can bring new understanding in the dynamic microbial ecology of fermented vegetables.  During the 1st [Food System Conference in Torino](https://www.foodsystemsmicrobiomes.org/) last week, Romane also presented a poster pitch of the follow up of this study using new and public metagenomic shotgun data. 
 
-![](2024_news_Mspectrum_talks_FSMconference_Torino.png)
+![](/img/2024_news_Mspectrum_talks_FSMconference_Torino.png)
 
 
 
