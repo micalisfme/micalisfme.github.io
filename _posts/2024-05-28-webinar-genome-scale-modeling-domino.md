@@ -4,6 +4,7 @@ title:  "Webinar on genome-scale modelling for consortia design"
 date:   2024-05-28 15:50:07
 categories: workshop
 members_tag: Stéphane Chaillou, Elham Karimi
+projects_tag: Domino
 description: "Webinar on genome-scale modelling for consortia design"
 image: '/img/2024_news_webinar_GSM.png'
 published: true

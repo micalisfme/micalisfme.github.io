@@ -4,6 +4,7 @@ title:  "Workshop on FAIR omics data in the M4SF cluster of European HE projects
 date:   2024-05-17 19:50:07
 categories: workshop
 members_tag: Julien Tap, Stéphane Chaillou
+projects_tag: Domino
 description: "Food System conference Microbes4SustainableFood"
 image: '/img/2024_news_workshop_FSMconference_Torino.png'
 published: true
