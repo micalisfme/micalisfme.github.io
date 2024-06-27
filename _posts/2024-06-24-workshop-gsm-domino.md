@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DOMINO Workshop on genome-scale modelling.How to build innovative and forward-looking methodologies in the field of fermented foods"
+title:  "DOMINO Workshop on genome-scale modelling. How to build innovative and forward-looking methodologies in the field of fermented foods"
 date:   2024-06-06 18:50:07
 categories: workshop
 members_tag: Julien Tap, Stéphane Chaillou, Elham Karimi
@@ -11,7 +11,7 @@ published: true
 #canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html
 ---
 
-The last three days, from Monday 24th to Wednesday 26th of June, INRAE (MaiAge & MICALIS) teams organised a workshop on microbial community-level genome scale modelling for consortia design.  
+The last three days, from Monday 24th to Wednesday 26th of June, INRAE (MaiAge & MICALIS) teams organised a workshop on microbial community-level genome scale modelling (GSM) for consortia design.  
 
 This activity was organized by INRAE scientist from #[DominoEU](/projects/domino/) WP3 (dedicated to open food microbiome database and tools) for WP4 (Microbial consortia design for plan-based fermented foods) partners. 
 It was also the opportunity to align methodologies developed in French ANR #Metasimfood project (https://www.metasimfood.inrae.fr/) to those being developed in #DominoEU project. 
