@@ -20,9 +20,13 @@ While fermented foods like yogurt, kimchi, and kefir are widely enjoyed, their f
 Key Insights from EUFIC:
  
   ▶️ Examples of fermented foods from around the globe
+  
   ▶️ The difference between foods with living vs. non-living microbes
+  
   ▶️ The most common processes of fermentation
+  
   ▶️ The health benefits of fermented foods
+  
   ▶️ The safety of consuming fermented foods
 
 The mission of #[DominoEU](/projects/domino/) is to understand the role of food microbial diversity in modulating human health. 
