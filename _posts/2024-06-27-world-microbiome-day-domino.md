@@ -2,7 +2,7 @@
 layout: post
 title:  "Explore the Health Benefits of Fermented Foods on  World Microbiome Day with EUFIC"
 date:   2024-06-27 18:50:07
-categories: workshop
+categories: communication
 members_tag: Stéphane Chaillou
 projects_tag: Domino
 description: "DOMINO World Microbiome Day"
