@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Celebrating World Microbiome Day by Inspiring Young Minds with the Wonders of Microbiology"
-date:   2024-07-04 18:50:07
+date:   2024-07-04 12:50:07
 categories: teaching
 members_tag: Julien Tap
-description: "DOMINO World Microbiome Day"
-image: /img/wmd_toulouse_lautrec.jfif
+description: "World Microbiome Day at Schools"
+image: /img/mosaic_wmd_school_2024.png
 published: true
 #canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html
 ---
@@ -33,3 +33,5 @@ One of the workshop's highlights was exploring the children's cultivable skin mi
 The highlight of the session was testing unusual objects from the children's daily routines, such as their school supplies and personal items. The results were both surprising and educational, providing a vivid demonstration of the ubiquitous nature of microbes. The children's excitement and joy were palpable as they participated in the experiments and eagerly anticipated the microbial growth results. Their engagement and curiosity underscored the importance of making science accessible and enjoyable for all.
 
 Special thanks to the PhylHom team, French gut team and MIMA2 platform for making these workshops a success.
+
+
