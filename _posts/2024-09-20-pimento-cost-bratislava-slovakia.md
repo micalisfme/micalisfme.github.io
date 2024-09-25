@@ -4,6 +4,7 @@ title:  "COST PIMENTO Workshop in Bratislava: A Successful Gathering for the Fut
 date:   2024-09-20 18:50:07
 categories: teaching
 members_tag: Marie-Christine Champomier-Vergès, Stéphane Chaillou
+projects_tag: PIMENTO
 description: "Marie and Stéphane at COST PIMENTO workshop"
 image: /img/pimento_bratislava_2024.jpg
 published: true
