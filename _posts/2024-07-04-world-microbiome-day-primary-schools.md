@@ -4,6 +4,7 @@ title:  "Celebrating World Microbiome Day by Inspiring Young Minds with the Wond
 date:   2024-07-04 12:50:07
 categories: teaching
 members_tag: Julien Tap
+projects_tag: French Gut
 description: "World Microbiome Day at Schools"
 image: /img/mosaic_wmd_school_2024.png
 published: true
