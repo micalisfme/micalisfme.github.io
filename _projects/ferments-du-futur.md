@@ -33,4 +33,4 @@ and a transversal axis :
 ## more on the news
 - INRAE press release: [Building food transitions with France 2030: launch of the "Ferments of the Future" Grand Challenge](https://www.inrae.fr/en/news/building-food-transitions-france-2030-launch-ferments-future-grand-challenge)
 
-
+- 2nd INRAE press release [Ferments du Futur, a unique European public-private partnership for R&D on the food of the future](https://www.inrae.fr/en/news/ferments-du-futur-unique-european-public-private-partnership-rd-food-future])
