@@ -27,6 +27,9 @@ jobs:
     - name: Install cURL Headers
       run: sudo apt-get install libcurl4-openssl-dev
 
+    - name: Install Rcpp
+      run: Rscript -e "install.packages('Rcpp', dependencies = TRUE)"
+
     - name: Install required packages
       run: Rscript -e "install.packages(c('rmarkdown','RCurl', 'XML', 'bibtex', 'RefManageR'))"
 
