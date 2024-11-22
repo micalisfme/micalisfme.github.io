@@ -3,8 +3,6 @@ title: "FME publications"
 hero_image: /img/FME_Banner_website_V3.png
 hero_darken: false
 bibliography: FME_publications_sorted_2.bib
-hero_link: https://hal.inrae.fr/FME-MICALIS
-hero_link_text: Publications files Archives
 output: 
   md_document:
     includes:
