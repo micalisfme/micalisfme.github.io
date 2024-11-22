@@ -2,7 +2,7 @@
 layout: post
 title:  "COST PIMENTO Workshop in Bratislava: A Successful Gathering for the Future of Fermented Foods"
 date:   2024-09-20 18:50:07
-categories: teaching
+categories: workshop
 members_tag: Marie-Christine Champomier-Vergès, Stéphane Chaillou
 projects_tag: PIMENTO
 description: "Marie and Stéphane at COST PIMENTO workshop"
