@@ -12,6 +12,8 @@ published: true
 ---
 
 
-At the recent opening of the Ferments du Futur Innovation Center (CI2F) in Paris-Saclay, [Killian](/team/killian-cuissinat-dagues/) shared insights into how our new plateform PIAM housed in MICALIS supports innovation in industrial fermentation, microbial consortia development, and health-related applications.
+At the recent opening of the Ferments du Futur Innovation Center (CI2F) in Paris-Saclay, [Killian](/team/killian-cuissinat-dagues/) shared insights about how our new plateform PIAM (Print, Image, Analytics and Micro-fermenters) housed in MICALIS supports innovation in industrial fermentation, microbial consortia development, and health-related applications.
 
 ![](/img/gdff_piam_poster.png)
+
+If you want more informations our PIAM plateform, please contact us and visit [our PIAM website](https://www.micalis.fr/equipe/piam/)
