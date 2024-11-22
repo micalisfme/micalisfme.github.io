@@ -3,6 +3,8 @@ title: Publications
 #subtitle: INRAE Micalis institute Paris Saclay
 layout: page
 #callouts: home_callouts
+hero_link: https://hal.inrae.fr/FME-MICALIS
+hero_link_text: Publications files Archives
 hero_image: /img/FME_Banner_website_V3.png
 hero_darken: fasle
 show_sidebar: false
@@ -10,7 +12,7 @@ sitemap:
   exclude: 'yes'
 ---
 
-*Last extraction 2024-11-03 22:51:46.533461*
+*Last extraction 2024-11-22 13:38:23.648139*
 
 <span class="csl-left-margin">1.
 </span><span class="csl-right-inline">Kothe, C. I. *et al.* [Halomonas
