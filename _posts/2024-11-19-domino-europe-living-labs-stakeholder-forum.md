@@ -11,7 +11,7 @@ published: true
 #canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html
 ---
 
-The [DOMINO](/project/domino/) project is at the forefront of connecting microbiome science, food systems, and health in Europe. Recent activities highlight how DOMINO is driving innovation and fostering collaboration:
+The [DOMINO](/projects/domino/) project is at the forefront of connecting microbiome science, food systems, and health in Europe. Recent activities highlight how DOMINO is driving innovation and fostering collaboration:
 
 **Living Labs**: At a Brussels event hosted by [Ferments du Futur](/projects/ferments-du-futur/) and partners, DOMINO showcased how Living Labs bring together researchers, producers, regulators, and consumers. These labs explore fermented foods like legumes in France and water kefir in Ireland, uncovering knowledge gaps and emphasizing the importance of consumer feedback in food innovation.
 
