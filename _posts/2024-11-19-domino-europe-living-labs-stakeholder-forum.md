@@ -19,6 +19,6 @@ The [DOMINO](/project/domino/) project is at the forefront of connecting microbi
 
 **Stakeholder Forum**: DOMINO launched its Stakeholder Forum with a webinar by Dr. Magali Cordaillat-Simmons, focusing on regulatory science for microbiomes. This platform ensures DOMINO’s research aligns with societal needs, promoting open dialogue on fermented foods and microbiome advances.
 
-![](/img/domino_forum.png)
+![](/img/domino_forum.jpg)
 
 DOMINO is animating food microbiome science by combining interdisciplinary research, consumer engagement, and cross-sector collaboration, driving Europe toward healthier, more sustainable food systems. 
