@@ -23,6 +23,6 @@ Highlights are:
 - Recovery of 10 species, including two not previously reported in food.
 
 
-[^1]: Kothe et al. [*Metagenomic driven isolation of poorly culturable species in food](https://doi.org/10.1016/j.fm.2025.104722).  Int J Syst Evol Microbiol. 2024
+[^1]: Kothe et al. [*Metagenomic driven isolation of poorly culturable species in food](https://doi.org/10.1016/j.fm.2025.104722).  Food Microbiology. 2025
 
 
