@@ -6,7 +6,7 @@ categories: congress
 members_tag: Stéphane Chaillou, Marie-Christine Champomier-Vergès
 projects_tag: Domino, PIMENTO
 description: "Health promoting effects of Fermented Foods was the highlight on 5-7th of February 2025 at 2nd Forum on Fermented Foods in Malaga, Spain"
-image: 'domino_pimento_2025_malaga.png'
+image: '/img/domino_pimento_2025_malaga.png'
 published: true
 ---
 
