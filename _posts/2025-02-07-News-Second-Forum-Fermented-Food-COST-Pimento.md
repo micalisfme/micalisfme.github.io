@@ -10,7 +10,7 @@ image: '/img/domino_pimento_2025_malaga.png'
 published: true
 ---
 
-([#DominoEU](https://twitter.com/hashtag/DominoEU) researchers participated significantly to this amazing conference organised by the COST [Pimento](https://fme.micalis.fr/projects/pimento/). Paul Cotter, Orla O’Sullivan, Jekaterina Kansatseva, Bastien Renard, Isabelle Savary-Auzeloux, Luca Cocolin, Kelly Rantsiou and Tanja Kostic gave talks.
+[#DominoEU](https://twitter.com/hashtag/DominoEU) researchers participated significantly to this amazing conference organised by the COST [Pimento](https://fme.micalis.fr/projects/pimento/). Paul Cotter, Orla O’Sullivan, Jekaterina Kansatseva, Bastien Renard, Isabelle Savary-Auzeloux, Luca Cocolin, Kelly Rantsiou and Tanja Kostic gave talks.
 
 ![](/img/domino_pimento_2025_malaga.png)
 
