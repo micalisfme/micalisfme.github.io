@@ -28,3 +28,13 @@ strategies and perspectives presented by Maxime Lecomte (INRAE, STLO) and
 Daniel-Rios Garza (INRAE, Prose). 
 Altogether, they showed that despite the promises that GSM can bring, 
 many challenges remains to be overcome. A very interesting scientific field to follow in the near future.
+
+
+During NEM days, Microbiome Modelization specific sessions program was:
+
+- Bastien Renard: **Design of microbial solutions for healthy and sustainable innovative fermented cereal beverages**
+- Ayite Adama-Hondegla: **Microbial community assembly and metabolic diversity in a legume-based matrix**
+- Maxime Lecomte: **Revealing the dynamics and mechanisms of bacterial interactions in cheese production with metabolic modelling**
+- Daniel-Rios Garza: **Towards the Development of Closed-Loop Microbiome Controllers**
+
+
