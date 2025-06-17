@@ -5,6 +5,11 @@
   dropdown:
     - name : Join us
       link: /positions/
+- name: Tools
+  #link: /team/
+  dropdown:
+    - name : F3MR
+      link: https://fme_team.pages-forge.inrae.fr/f3mr/
 - name: News
   link: /blog/
 - name: Publications
