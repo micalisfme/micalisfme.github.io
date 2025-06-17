@@ -3,6 +3,7 @@ title: Caroline Sancho
 subtitle: Computational biologist apprentice
 description: Master apprentice
 layout: member
+type: alumni
 image: /img/caroline_sancho.jpg
 rank: 11
 features:

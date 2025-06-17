@@ -3,6 +3,7 @@ title: Marine Zagdoun
 subtitle : visiting scientist
 description: scientist
 layout: member
+type: alumni
 image: "/img/marine_zagdoun.jpg"
 rank: 13
 features:

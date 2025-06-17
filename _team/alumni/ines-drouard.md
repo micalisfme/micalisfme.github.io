@@ -3,6 +3,7 @@ title: Inès Drouard
 subtitle: Research technician
 description: Microbiology
 layout: member
+type: alumni
 image: /img/ines_drouard.jpg
 rank: 12
 features:
