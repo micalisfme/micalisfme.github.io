@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Consumers at the core of fermented food innovation"
-date:   2025-09-24 15:50:07
+date:   2025-09-24 12:50:07
 categories: workshop
 members_tag: Stéphane Chaillou
 projects_tag: Domino, PIMENTO
