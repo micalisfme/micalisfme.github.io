@@ -3,7 +3,7 @@ title: Food Microbial Ecology lab
 subtitle: INRAE | Micalis institute | Université Paris Saclay
 layout: page
 callouts: home_callouts
-hero_image: /img/figure1_Domino.png
+hero_image: /img/FME_panel_scientific_draft_V5.png
 hero_darken: false
 show_sidebar: true
 hero_link: positions
@@ -16,8 +16,6 @@ hero_link_text: Join us
 
 The FME group at MICALIS institute, is focusing its research on food and human gut microbiomes science for the of design food- and digestive-based microbial consortia to advance our understanding of food microbial ecology and how food microbiota interact with human digestive health (functional microbiomes). Our research is focused on the scientific issues associated with community structuring, seeking to determine the impact and role of biodiversity (at different taxonomic, functional and evolutionary scales) in understanding functional population dynamics.
 As shown in Figure 1, food microbiomes are the cornerstone of health and sustainability issues, in particular in the field of fermented food. Through fermentation of many raw food materials, food microbiomes improve the nutritional impact of many food by enhancing sensory qualities and flavours and by producing vitamins and many other bioactive metabolites having a potential impact on Human digestive health.  When ingested as live dietary microbes, food microbiomes can also promote positive interaction with gut microbiomes leading to an equivalent of a domino-like effect for health. Food microbiomes are also promising solutions for the development of new types of plant-based fermented food and for an overall sustainability improvement. However, the versatility of food microbiomes is huge and the idea of harnessing them as a tool for our benefit is limited by the lack of knowledge on how natural communities are shaped and what ecological forces drive their functionality.
-
-![](/img/Figure_Proet_FME_V1.png)
 
 <figure>
   <img src="{{site.url}}/img/figure1_Domino.png" alt="my alt text"/>
