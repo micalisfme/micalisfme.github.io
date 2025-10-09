@@ -18,15 +18,15 @@ The FME group at MICALIS institute, is focusing its research on food and human g
 As shown in Figure 1, food microbiomes are the cornerstone of health and sustainability issues, in particular in the field of fermented food. Through fermentation of many raw food materials, food microbiomes improve the nutritional impact of many food by enhancing sensory qualities and flavours and by producing vitamins and many other bioactive metabolites having a potential impact on Human digestive health.  When ingested as live dietary microbes, food microbiomes can also promote positive interaction with gut microbiomes leading to an equivalent of a domino-like effect for health. Food microbiomes are also promising solutions for the development of new types of plant-based fermented food and for an overall sustainability improvement. However, the versatility of food microbiomes is huge and the idea of harnessing them as a tool for our benefit is limited by the lack of knowledge on how natural communities are shaped and what ecological forces drive their functionality.
 
 <figure>
-  <img src="{{site.url}}/img/figure1_Domino.png" alt="my alt text"/>
-  <figcaption>The relationship between fermented food, sustainability  and health.<figcaption>
+  <img src="{{site.url}}/img/figure1_Domino.png" alt="The relationship between fermented food, sustainability and health."/>
+  <figcaption>The relationship between fermented food, sustainability and health.</figcaption>
 </figure>
 
 
 As shown in the Figure 2, our scientific strategy is based on four research axes aiming at a combination of approaches to unlock the immense potential for leveraging food microbial communities as solutions for health and sustainability.  A strongly inter-disciplinary strategy combines results and approaches from microbial ecology, high throughput omics data analysis, and computational biology. Our scientific activity creates a strong foreground to develop downstream innovative programs with industrial stakeholders in fermented food areas.
 
 <figure>
-  <img src="{{site.url}}/img/figure2_strategy.png" alt="my alt text"/>
+  <img src="{{site.url}}/img/figure2_strategy.png" alt="Our strategical framework to design food microbiomes."/>
   <figcaption>Our strategical framework to design food microbiomes.</figcaption>
 </figure>
 
