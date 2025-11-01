@@ -12,7 +12,7 @@ sitemap:
   exclude: 'yes'
 ---
 
-*Last extraction 2025-10-01 00:52:02.789954*
+*Last extraction 2025-11-01 00:51:41.887451*
 
 <span class="csl-left-margin">1.
 </span><span class="csl-right-inline">Kothe, C. I. & Renault, P.
