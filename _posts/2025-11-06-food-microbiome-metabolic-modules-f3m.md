@@ -17,8 +17,6 @@ The FME team has published a new preprint in *Open Research Europe* entitled
 Understanding microbial interactions within food ecosystems is essential for improving the quality, safety, and health properties of fermented foods. However, analyzing these interactions at the functional and metabolic levels remains technically challenging.To address this gap, the FME team developed **F3M**, an open-source suite designed specifically for the metatranscriptomic analysis of food microbiomes.  
 
 
-![](/img/F3M_modules.gif)
-
 <figure>
   <img src="{{site.url}}/img/F3M_modules.gif" alt="Overview of different classes among the F3M main functional modules allowing the linkage of the major functional processes in microbial interactions."/>
   <figcaption>Overview of different classes among the F3M main functional modules allowing the linkage of the major functional processes in microbial interactions:: the modules for metabolism (illustrated by the pathways within the two bacterial cells), redox processes (central oxido-reduction mechanisms between the two cells), and uptake processes (various transporters in the cell membrane of the two cells).</figcaption>
