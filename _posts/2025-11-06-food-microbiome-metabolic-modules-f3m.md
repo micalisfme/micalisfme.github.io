@@ -14,7 +14,7 @@ The FME team has published a new preprint in *Open Research Europe* entitled
 **“Food Microbiome Metabolic Modules (F3M): a tool suite for functional profiling of food microbiomes.”**  
 [Read the article](https://open-research-europe.ec.europa.eu/articles/5-324)
 
-Understanding microbial interactions within food ecosystems is essential for improving the quality, safety, and health properties of fermented foods. However, analyzing these interactions at the functional and metabolic levels remains technically challenging.To address this gap, the FME team developed **F3M**, an open-source suite designed specifically for the metatranscriptomic analysis of food microbiomes.  
+Understanding microbial interactions within food ecosystems is essential for improving the quality, safety, and health properties of fermented foods. However, analyzing these interactions at the functional and metabolic levels remains technically challenging. To address this gap, the FME team developed **F3M**, an open-source suite designed specifically for the metatranscriptomic analysis of food microbiomes.  
 
 
 <figure>
