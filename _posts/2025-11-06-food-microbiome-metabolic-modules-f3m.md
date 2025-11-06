@@ -34,8 +34,22 @@ The article[^1], authored by **Julien Tap, Nacer Mohellibi, Colin Tinsley, Valen
 
 **Access the resources:**  
 - [F3M database](https://doi.org/10.57745/9VKS65)  
-- [f3mr R package](https://forge.inrae.fr/fme_team/f3mr)  
-- [F3M builder](https://forge.inrae.fr/fme_team/f3m_builder)
+- [F3M builder](https://forge.inrae.fr/fme_team/f3m_builder/-/blob/main/README.md?ref_type=heads)
+- [f3mr R package](https://fme_team.pages-forge.inrae.fr/f3mr/) 
 
-[^1]: Tap et al. [*Food Microbiome Metabolic Modules (F3M), a tool suite for functional profiling of food microbiomes](https://open-research-europe.ec.europa.eu/articles/5-324).  Open Research Europe. 2025
+[^1]: Tap et al. [*Food Microbiome Metabolic Modules (F3M), a tool suite for functional profiling of food microbiomes*](https://open-research-europe.ec.europa.eu/articles/5-324).  Open Research Europe. 2025
+
+## Learn and practice with the F3M R tutorial
+
+A complete **tutorial and training guide** is available online for users who wish to become familiar with the F3M workflow:  
+[https://fme_team.pages-forge.inrae.fr/f3mr/getting-started.html](https://fme_team.pages-forge.inrae.fr/f3mr/getting-started.html)
+
+This hands-on guide introduces the main steps of analysis with the `f3mr` R package, including:
+
+1. **Build a reference database** from functional and taxonomic annotations.  
+2. **Import sample count data** .  
+3. **Aggregate counts** by taxonomic and functional levels.  
+4. **Build a count matrix** for downstream statistical analyses.  
+
+Each section of the tutorial includes example code and data to help users reproduce a full workflow, from raw annotations to interpretable metatranscriptomic profiles.
 
