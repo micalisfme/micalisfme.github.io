@@ -47,13 +47,5 @@ timely guidance for researchers and practitioners aiming to connect fermented
 food consumption with measurable, individualized health outcomes.
 
 
-[^1]: Humblot Christèle , Alvanoudi Panagiota , Alves Emilia , Assunçao Ricardo
-, Belovic Miona , Bulmus-Tuccar Tugce , Chassard Christophe , Derrien Muriel ,
-Karagöz Mustafa Fevzi , Karakaya Sibel , Laranjo Marta , Mantzouridou Fani Th ,
-Rosado Catarina , Pracer Smilja , Saar Helen , Tap Julien , Treven Primož ,
-Vergères Guy , Pertziger Eugenia , Savary-Auzeloux Isabelle, A scoping review of
-the health effects of fermented foods in specific human populations and their
-potential role in precision nutrition: current knowledge and gaps. Frontiers in
-Nutrition. 2025
-[doi:10.3389/fnut.2025.1650633](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1650633)
+[^1]: Humblot Christèle, Alvanoudi Panagiota, Alves Emilia, Assunçao Ricardo, Belovic Miona, Bulmus-Tuccar Tugce, Chassard Christophe, Derrien Muriel, Karagöz Mustafa Fevzi, Karakaya Sibel, Laranjo Marta, Mantzouridou Fani Th, Rosado Catarina, Pracer Smilja, Saar Helen, Tap Julien, Treven Primož, Vergères Guy, Pertziger Eugenia, Savary-Auzeloux Isabelle, A scoping review of the health effects of fermented foods in specific human populations and their potential role in precision nutrition: current knowledge and gaps. Frontiers in Nutrition. 2025 [doi:10.3389/fnut.2025.1650633](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1650633)
 
