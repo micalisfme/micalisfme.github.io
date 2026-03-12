@@ -4,6 +4,7 @@ title:  "New tool suite - Food Microbiome Metabolic Modules (F3M)"
 date:   2025-11-06 18:50:07
 categories: article
 members_tag: Julien Tap, Nacer Mohellibi, Colin Tinsley, Stéphane Chaillou
+projects_tag: Domino, metasimfood
 description: "Food Microbiome Metabolic Modules (F3M), a tool suite for functional profiling of food microbiomes"
 image: /img/F3M_modules.gif
 published: true
