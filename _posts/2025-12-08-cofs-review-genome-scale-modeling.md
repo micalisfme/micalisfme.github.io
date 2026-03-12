@@ -5,6 +5,7 @@ date:   2025-12-08 8:50:07
 categories: article
 members_tag: Stéphane Chaillou, Julien Tap, Elham Karimi, Marie-Christine Champomier-Vergès
 description: "Microbiome metabolic modeling as a tool for innovation in fermented foods"
+projects_tag: Domino, metasimfood
 image: /img/COFS_graphical_abstract.jpg
 published: true
 ---
