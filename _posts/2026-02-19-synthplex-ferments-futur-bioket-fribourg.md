@@ -11,13 +11,13 @@ published: true
 ---
 
 At the [BIOKET (Bioeconomy Key Enabling Technologies)](https://bioket.tech/)
-conference in Fribourg, Julien presented recent advances from the [SynthPlex](/projects/synthplex)
+conference in Fribourg, [Julien](/team/julien-tap) presented recent advances from the [SynthPlex](/projects/synthplex)
 project, positioning synthetic microbial ecology as a core tool for
 next-generation fermented foods.
 
-![](img/julien-tap-fribourg-bioket-synthplex-talk.jpg)
+![](/img/julien-tap-fribourg-bioket-synthplex-talk.jpg)
 
-The session, chaired by Damien Paineau, [Ferments du Future](project/ferments-du-futur) CEO, 
+The session, chaired by Damien Paineau, [Ferments du Future](/project/ferments-du-futur) CEO, 
 brought together researchers and
 industry leaders working on biotechnology and sustainable food systems.
 Discussions spanned microbial fermentation, cellular agriculture, and scalable
