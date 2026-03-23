@@ -2,7 +2,7 @@
 layout: post
 title:  "cFMD workshop in Trento"
 date:   2026-02-24 18:50:07
-categories: article
+categories: workshop
 members_tag: William Bourelle, Stéphane Chaillou
 projects_tag: Domino
 description: "a workshop was organized by the CIBIO for Domino partners"
