@@ -27,7 +27,7 @@ interpretation.
 The morning sessions introduced the conceptual foundations of the
 [F3M curated database and the associated tools](https://fme_team.pages-forge.inrae.fr/F3M_Builder_Tutorial/Slides/DOMINO_3AM_F3M_workshop.pdf).
 
-![](/img/2026_f3m_workshop_participants_domino.png)
+![](/img/2026_f3m_workshop_participants_domino.jpg)
 
 Participants were then guided through
 practical use of the f3mr R package, focusing on data aggregation at both
