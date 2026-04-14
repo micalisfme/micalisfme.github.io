@@ -51,18 +51,16 @@ if(file.exists("FME_publications_2.bib")) {
 
 ```{r sort_bib, message=FALSE, warning=FALSE}
 
-# Read in the BibTeX file
 bib_file <- read.bib("FME_publications_2.bib")
 
-# Extract the year field from each entry
-years <- sapply(bib_file, function(x) x$year)
+years <- vapply(bib_file, function(x) {
+  y <- x[["year"]]
+  if (length(y) == 0) NA_real_ else as.numeric(substr(y, 1, 4))
+}, numeric(1))
 
-# Sort the entries by year in descending order
-bib_file <- bib_file[rev(order(years)),]
+bib_file <- bib_file[order(years, decreasing = TRUE, na.last = TRUE)]
 
-# Write the sorted BibTeX file to a new file
 write.bib(bib_file, file = "FME_publications_sorted_2.bib")
-
 
 ```
 
