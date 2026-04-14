@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DOMINO Workshop on F3M Food Microbiome Metabolic Modules at CSIC Madrid"
-date:   2026-04-14 10:50:07
+date:   2026-04-14 9:50:07
 categories: workshop
 members_tag: Julien Tap, Stéphane Chaillou, Nacer Mohellibi
 projects_tag: Domino
