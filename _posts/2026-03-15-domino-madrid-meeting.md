@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DOMINO 3rd annual meeting in Madrid"
-date:   2026-03-20 19:50:07
+date:   2026-04-20 19:50:07
 categories: meeting
 members_tag: Marie-Christine Champomier-Vergès, Stéphane Chaillou, Julien Tap, Alice Lima
 projects_tag: Domino
