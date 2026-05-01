@@ -12,7 +12,7 @@ sitemap:
   exclude: 'yes'
 ---
 
-*Last extraction 2026-04-14 12:49:53.347432*
+*Last extraction 2026-05-01 01:29:36.732418*
 
 <span class="csl-left-margin">1.
 </span><span class="csl-right-inline">Humblot, C. *et al.* [A scoping
@@ -64,9 +64,9 @@ meta-omics](https://doi.org/10.1016/j.foodres.2023.112762). *Food
 Research International* **168**, pp. 112762 (2023).</span>
 
 <span class="csl-left-margin">8.
-</span><span class="csl-right-inline">Poirier, S. *et al.* [Holistic
-integration of omics data reveals the drivers that shape the ecology of
-microbial meat spoilage
+</span><span class="csl-right-inline"><span class="nocase">Poirier, S.
+*et al.*</span> [Holistic integration of omics data reveals the drivers
+that shape the ecology of microbial meat spoilage
 scenarios](https://doi.org/10.3389/fmicb.2023.1286661). *Frontiers in
 Microbiology* **14**, 1286661 (2023).</span>
 
@@ -84,9 +84,9 @@ fermentés](https://hal.inrae.fr/hal-03958354). *Ressources, la revue
 INRAE* 44 (2023).</span>
 
 <span class="csl-left-margin">11.
-</span><span class="csl-right-inline">Sessitsch, A. *et al.* [Microbiome
-Interconnectedness throughout Environments with Major Consequences for
-Healthy People and a Healthy
+</span><span class="csl-right-inline"><span class="nocase">Sessitsch, A.
+*et al.*</span> [Microbiome Interconnectedness throughout Environments
+with Major Consequences for Healthy People and a Healthy
 Planet](https://doi.org/10.1128/mmbr.00212-22). *Microbiology and
 Molecular Biology Reviews* **0**, e00212–22 (2023).</span>
 
@@ -125,15 +125,16 @@ metagenomics](https://doi.org/10.1016/j.foodres.2022.111265). *Food
 Research International* **157**, 111265 (2022).</span>
 
 <span class="csl-left-margin">17.
-</span><span class="csl-right-inline">Cernava, T. *et al.* [Metadata
-harmonization–Standards are the key for a better usage of omics data for
-integrative microbiome
+</span><span class="csl-right-inline"><span class="nocase">Cernava, T.
+*et al.*</span> [Metadata harmonization–Standards are the key for a
+better usage of omics data for integrative microbiome
 analysis](https://doi.org/10.1186/s40793-022-00425-1). *Environmental
 Microbiome* **17**, 33 (2022).</span>
 
 <span class="csl-left-margin">18.
-</span><span class="csl-right-inline">Lange, L. *et al.* [Microbiome
-ethics, guiding principles for microbiome research, use and knowledge
+</span><span class="csl-right-inline"><span class="nocase">Lange, L. *et
+al.*</span> [Microbiome ethics, guiding principles for microbiome
+research, use and knowledge
 management](https://doi.org/10.1186/s40793-022-00444-y). *Environmental
 Microbiome* **17**, 50 (2022).</span>
 
