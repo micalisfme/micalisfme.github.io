@@ -2,13 +2,10 @@
 title: "FME publications"
 hero_image: /img/FME_Banner_website_V3.png
 hero_darken: false
-bibliography: FME_publications_sorted_2.bib
 output: 
   md_document:
     includes:
       in_header: yaml.txt
-nocite: '@*'
-csl: nature.csl
 sitemap:
   exclude: 'yes'
 ---
@@ -19,3 +16,143 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 _Last extraction `r Sys.time()`_
+
+```{r grouped_publications, echo=FALSE, results='asis'}
+suppressWarnings(suppressPackageStartupMessages(library(bibtex)))
+
+bibliography_file <- "FME_publications_sorted_2.bib"
+csl_file <- "nature.csl"
+
+publication_year <- function(entry) {
+  year <- entry$year
+
+  if (is.null(year) || length(year) == 0) {
+    return(NA_integer_)
+  }
+
+  year <- as.character(year)[1]
+  suppressWarnings(as.integer(substr(year, 1, 4)))
+}
+
+publication_doi <- function(entry) {
+  doi <- entry$doi
+
+  if (is.null(doi) || length(doi) == 0) {
+    return(NA_character_)
+  }
+
+  doi <- tolower(trimws(as.character(doi)[1]))
+  if (identical(doi, "")) {
+    return(NA_character_)
+  }
+
+  doi
+}
+
+entry_score <- function(entry) {
+  fields <- as.list(entry)
+  sum(vapply(fields, function(value) {
+    !is.null(value) && length(value) > 0 && !all(is.na(value))
+  }, logical(1)))
+}
+
+deduplicate_by_doi <- function(entries) {
+  dois <- vapply(entries, publication_doi, character(1))
+  keep <- rep(TRUE, length(entries))
+
+  for (doi in unique(dois[!is.na(dois)])) {
+    matches <- which(dois == doi)
+
+    if (length(matches) > 1) {
+      scores <- vapply(entries[matches], entry_score, integer(1))
+      best <- matches[which.max(scores)]
+      keep[setdiff(matches, best)] <- FALSE
+    }
+  }
+
+  entries[keep]
+}
+
+render_bibliography <- function(entries) {
+  temp_bib <- tempfile(fileext = ".bib")
+  temp_md <- tempfile(fileext = ".md")
+  temp_output <- tempfile(fileext = ".md")
+
+  invisible(capture.output(
+    invisible(capture.output(
+      suppressMessages(suppressWarnings(write.bib(entries, file = temp_bib))),
+      type = "message"
+    ))
+  ))
+
+  writeLines(c(
+    "---",
+    paste0("bibliography: ", normalizePath(temp_bib, winslash = "/", mustWork = TRUE)),
+    paste0("csl: ", normalizePath(csl_file, winslash = "/", mustWork = TRUE)),
+    "nocite: '@*'",
+    "---",
+    ""
+  ), temp_md, useBytes = TRUE)
+
+  rmarkdown::pandoc_convert(
+    input = temp_md,
+    to = "markdown_strict",
+    output = temp_output,
+    options = "--citeproc"
+  )
+
+  rendered <- readLines(temp_output, warn = FALSE, encoding = "UTF-8")
+  rendered <- rendered[!grepl("^---$", rendered)]
+  rendered <- rendered[!grepl("^(bibliography|csl|nocite):", rendered)]
+  rendered <- rendered[!grepl("^::: \\{#refs", rendered)]
+  rendered <- rendered[!grepl("^:::$", rendered)]
+  rendered <- gsub("doi:[", "doi: [", rendered, fixed = TRUE)
+
+  rendered
+}
+
+renumber_bibliography <- function(lines, start_at) {
+  next_number <- start_at
+
+  for (i in seq_along(lines)) {
+    if (grepl('<span class="csl-left-margin">[0-9]+\\.', lines[i])) {
+      lines[i] <- sub(
+        '<span class="csl-left-margin">[0-9]+\\.',
+        paste0('<span class="csl-left-margin">', next_number, "."),
+        lines[i]
+      )
+      next_number <- next_number + 1
+    }
+  }
+
+  list(lines = lines, next_number = next_number)
+}
+
+bib_entries <- read.bib(bibliography_file)
+bib_entries <- deduplicate_by_doi(bib_entries)
+
+years <- vapply(bib_entries, publication_year, integer(1))
+sort_years <- ifelse(is.na(years), -Inf, years)
+bib_entries <- bib_entries[order(sort_years, decreasing = TRUE, na.last = TRUE)]
+years <- years[order(sort_years, decreasing = TRUE, na.last = TRUE)]
+
+year_groups <- unique(years[!is.na(years)])
+next_publication_number <- 1
+
+for (year in year_groups) {
+  rendered <- render_bibliography(bib_entries[which(years == year)])
+  rendered <- renumber_bibliography(rendered, next_publication_number)
+  next_publication_number <- rendered$next_number
+
+  cat("\n\n## ", year, "\n\n", sep = "")
+  cat(rendered$lines, sep = "\n")
+}
+
+if (any(is.na(years))) {
+  rendered <- render_bibliography(bib_entries[which(is.na(years))])
+  rendered <- renumber_bibliography(rendered, next_publication_number)
+
+  cat("\n\n## Undated\n\n")
+  cat(rendered$lines, sep = "\n")
+}
+```
