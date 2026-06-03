@@ -139,20 +139,80 @@ years <- years[order(sort_years, decreasing = TRUE, na.last = TRUE)]
 year_groups <- unique(years[!is.na(years)])
 next_publication_number <- 1
 
-for (year in year_groups) {
+render_year_group <- function(year, start_at) {
   rendered <- render_bibliography(bib_entries[which(years == year)])
-  rendered <- renumber_bibliography(rendered, next_publication_number)
-  next_publication_number <- rendered$next_number
+  rendered <- renumber_bibliography(rendered, start_at)
 
   cat("\n\n## ", year, "\n\n", sep = "")
   cat(rendered$lines, sep = "\n")
+
+  rendered$next_number
+}
+
+render_previous_year_group <- function(year, start_at) {
+  rendered <- render_bibliography(bib_entries[which(years == year)])
+  rendered <- renumber_bibliography(rendered, start_at)
+
+  cat("\n\n### ", year, "\n\n", sep = "")
+  cat(rendered$lines, sep = "\n")
+
+  rendered$next_number
+}
+
+current_years <- year_groups[year_groups >= 2020]
+previous_years <- year_groups[year_groups < 2020]
+
+for (year in current_years) {
+  next_publication_number <- render_year_group(year, next_publication_number)
 }
 
 if (any(is.na(years))) {
   rendered <- render_bibliography(bib_entries[which(is.na(years))])
   rendered <- renumber_bibliography(rendered, next_publication_number)
+  next_publication_number <- rendered$next_number
 
   cat("\n\n## Undated\n\n")
   cat(rendered$lines, sep = "\n")
+}
+
+if (length(previous_years) > 0) {
+  cat('\n\n<center>\n')
+  cat('<button id="showPreviousPublicationsBtn" class="button is-primary">Show Previous years</button>\n')
+  cat('</center>\n\n')
+  cat('## Previous years\n\n')
+
+  for (year in previous_years) {
+    next_publication_number <- render_previous_year_group(year, next_publication_number)
+  }
+
+  cat('\n<script>\n')
+  cat('document.addEventListener("DOMContentLoaded", function() {\n')
+  cat('  const btn = document.getElementById("showPreviousPublicationsBtn");\n')
+  cat('  const marker = document.getElementById("previous-publications-toggle-end");\n')
+  cat('  const previousHeading = Array.from(document.querySelectorAll("h2")).find(function(heading) {\n')
+  cat('    return heading.textContent.trim() === "Previous years";\n')
+  cat('  });\n')
+  cat('  if (!btn || !previousHeading || !marker) {\n')
+  cat('    return;\n')
+  cat('  }\n')
+  cat('  const previousNodes = [];\n')
+  cat('  let node = previousHeading;\n')
+  cat('  while (node && node !== marker) {\n')
+  cat('    previousNodes.push(node);\n')
+  cat('    node = node.nextElementSibling;\n')
+  cat('  }\n')
+  cat('  function setPreviousPublicationsVisible(isVisible) {\n')
+  cat('    previousNodes.forEach(function(previousNode) {\n')
+  cat('      previousNode.classList.toggle("is-hidden", !isVisible);\n')
+  cat('    });\n')
+  cat('    btn.textContent = isVisible ? "Hide Previous years" : "Show Previous years";\n')
+  cat('  }\n')
+  cat('  setPreviousPublicationsVisible(false);\n')
+  cat('  btn.addEventListener("click", function() {\n')
+  cat('    setPreviousPublicationsVisible(previousHeading.classList.contains("is-hidden"));\n')
+  cat('  });\n')
+  cat('});\n')
+  cat('</script>\n')
+  cat('<span id="previous-publications-toggle-end"></span>\n')
 }
 ```
