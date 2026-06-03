@@ -2,7 +2,7 @@
 title: SYNERGY
 subtitle: GDFF project
 layout: project
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Gr%C3%A3os_de_kefir_de_%C3%A1gua.jpg/480px-Gr%C3%A3os_de_kefir_de_%C3%A1gua.jpg
+image: https://www.fermentsdufutur.eu/wp-content/uploads/2023/11/SYNERGY-3-e1702549969784-664x1024.png
 start: 2023-10-01
 end: 2025-09-30
 category: National
@@ -16,7 +16,7 @@ features:
       icon: fa-regular fa-book
       link: https://www.fermentsdufutur.eu/presentation-ferments-du-futur/
 #rating: 3
-hero_image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Gr%C3%A3os_de_kefir_de_%C3%A1gua.jpg/480px-Gr%C3%A3os_de_kefir_de_%C3%A1gua.jpg'
+hero_image: 'https://www.fermentsdufutur.eu/wp-content/uploads/2023/11/SYNERGY-3-e1702549969784-664x1024.png'
 hero_darken: true
 ---
 
