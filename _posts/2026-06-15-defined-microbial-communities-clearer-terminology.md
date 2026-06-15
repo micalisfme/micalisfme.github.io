@@ -10,7 +10,7 @@ image: /img/2026_news_NatureCom_article.png
 published: true
 ---
 
-Stéphane Chaillou participated in a joint reflection with a group of international researchers, coordinated by the Austrian Institute of Technology (AIT), on the terminology used to describe certain microbial communities. The collective of experts proposes replacing the term “synthetic community” (or SynCom), sometimes perceived negatively, with “Defined Microbial Community”.
+[Stéphane Chaillou](/team/stephane-chaillou/) participated in a joint reflection with a group of international researchers, coordinated by the Austrian Institute of Technology (AIT), on the terminology used to describe certain microbial communities. The collective of experts proposes replacing the term “synthetic community” (or SynCom), sometimes perceived negatively, with “Defined Microbial Community”.
 
 SynComs are assemblies of microscopic organisms cultivated in the laboratory to study interactions between microbes and hosts (plants, animals or humans) or to develop concrete solutions such as microbial fertilizers, fermenting agents, probiotics or biopesticides. The word “synthetic” can be confusing, as it is associated with synthetic biology and genetic manipulation, whereas most of these communities are composed of naturally occurring, unmodified strains.
 
