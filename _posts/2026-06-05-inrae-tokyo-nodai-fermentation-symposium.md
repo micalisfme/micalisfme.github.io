@@ -4,7 +4,7 @@ title: "Harnessing gut microbiome diversity for next-generation fermented foods"
 date: 2026-06-05 12:00:00
 categories: congress
 members_tag: Julien Tap
-projects_tag: Ferments of the Future Grand Challenge, Domino, MicroEngine
+projects_tag: Ferments of the Future Grand Challenge, Domino, MicroEngine, French Gut
 description: "Julien Tap presented an ecological framework for designing next-generation fermented foods at the INRAE-Tokyo NODAI Joint Symposium."
 image: /img/nodai_inrae_2026.png
 published: true

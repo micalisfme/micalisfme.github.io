@@ -4,7 +4,7 @@ title:  "FME at Bioket 2026 advancing synthetic microbial ecology for sustainabl
 date:   2026-03-19 18:50:07
 categories: congress
 members_tag: Julien Tap
-projects_tag: SynthPlex
+projects_tag: SynthPlex, Ferments of the Future Grand Challenge
 description: "Julien talk at Bioket 2026 Fribourg about SynthPlex GDFF funded project"
 image: /img/julien-bioket-agenda.jpg
 published: true

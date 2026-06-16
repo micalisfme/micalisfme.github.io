@@ -4,7 +4,7 @@ title:  "Focus on Microbial Ecology Modelling at the NEM days meeting in Rennes"
 date:   2025-05-06 18:50:07
 categories: congress
 members_tag: Julien Tap
-projects_tag: Domino, SynthPlex, FermenTwin
+projects_tag: Domino, SynthPlex, FermenTwin, MicroEngine
 description: "Focus on Microbial Ecology Modelling at the NEM (Nutrition & Microbial Ecology) annual meeting in Rennes, France."
 image: '/img/250506_news_journees_NEM.png'
 published: true
