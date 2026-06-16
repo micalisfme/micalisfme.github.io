@@ -6,7 +6,7 @@ image: /img/microengine_logo.png
 start: 2025-01-01
 end: 2026-12-31
 category: National
-news: false
+news: true
 features:
     - label: julien.tap[at]inrae.fr
       icon: fa-regular fa-envelope
