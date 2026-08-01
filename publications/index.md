@@ -12,7 +12,7 @@ sitemap:
   exclude: 'yes'
 ---
 
-*Last extraction 2026-07-01 02:00:37.225234*
+*Last extraction 2026-08-01 01:21:33.800858*
 
 ## 2026
 
