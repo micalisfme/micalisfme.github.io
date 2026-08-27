@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Harnessing gut microbiome diversity for next-generation fermented foods"
+title: "INRAE Tokyo NODAI Joint Symposium on Fermentation and Food Bioscience"
 date: 2026-06-05 12:00:00
 categories: congress
 members_tag: Julien Tap
