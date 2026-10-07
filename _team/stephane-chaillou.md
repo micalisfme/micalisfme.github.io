@@ -1,6 +1,6 @@
 ---
 title: Stéphane Chaillou
-subtitle: Research Director 
+subtitle: Research Director, Team Leader
 description: member card
 layout: member
 image: /img/CHAILLOU-STEPHANE-INRAe.jpg
