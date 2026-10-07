@@ -3,6 +3,7 @@ title: Maxim Bontemps-Gaborit
 subtitle : Internship student
 description: Master internship student
 layout: member
+type: alumni
 image: "/img/BONTEMPS-GABORIT-Maxim.jpg"
 rank: 14
 features:
