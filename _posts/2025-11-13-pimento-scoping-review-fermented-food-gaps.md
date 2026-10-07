@@ -13,7 +13,7 @@ published: true
 
 
 A new scoping review published in Frontiers in Nutrition[^1] as part of the COST
-Action [PIMENTO](/project/pimento/) initiative provides a comprehensive
+Action [PIMENTO](/projects/pimento/) initiative provides a comprehensive
 assessment of what is currently known about the health effects of fermented
 foods in specific human populations. This work reflects a substantial collective
 effort. We conducted an extensive and rigorous screening of the scientific

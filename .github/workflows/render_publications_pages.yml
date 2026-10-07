@@ -8,6 +8,9 @@ on:
 
 
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -41,10 +44,16 @@ jobs:
 
 
     - name: Commit results
+      shell: bash
       run: |
+          set -euo pipefail
           git config --local user.name "$GITHUB_ACTOR"
           git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
-          git commit publications/index.md -m 'Re-build publications index.Rmd' || echo "No changes to commit"
-          git push origin || echo "No changes to commit"
-
+          git add -- publications/index.md
+          if git diff --cached --quiet -- publications/index.md; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m 'Re-build publications index.Rmd' -- publications/index.md
+          git push origin
 

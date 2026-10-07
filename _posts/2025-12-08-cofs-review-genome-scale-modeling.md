@@ -25,8 +25,8 @@ used in bottom-up or top-down approaches.
 A specific thanks to [Elham Karimi](/team/alumni/elham-karimi/), postdoc in the
 FME lab, who brought this discipline into the scope of our research group and
 which we now apply in many of our projects, including in the 
-[ANR metasimfood](/project/metasimfood/) project and the European
-[#DominoEU](/project/domino/) project.
+[ANR metasimfood](/projects/metasimfood/) project and the European
+[#DominoEU](/projects/domino/) project.
 
 
 [^1]: Elham Karimi, Julien Tap, Marie-Christine Champomier-Vergès, Stéphane Chaillou. [*Microbiome metabolic modeling as a tool for innovation in fermented foods*](https://doi.org/10.1016/j.cofs.2025.101368).  Current Opinion of Food Science. 2025

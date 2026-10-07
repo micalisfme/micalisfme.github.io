@@ -17,7 +17,7 @@ next-generation fermented foods.
 
 ![](/img/julien-tap-fribourg-bioket-synthplex-talk.jpg)
 
-The session, chaired by Damien Paineau, [Ferments du Future](/project/ferments-du-futur) CEO, 
+The session, chaired by Damien Paineau, [Ferments du Future](/projects/ferments-du-futur) CEO,
 brought together researchers and
 industry leaders working on biotechnology and sustainable food systems.
 Discussions spanned microbial fermentation, cellular agriculture, and scalable

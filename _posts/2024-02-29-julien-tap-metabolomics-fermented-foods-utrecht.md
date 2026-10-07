@@ -19,7 +19,7 @@ Julien shed light on the critical role of the gut microbiome in human health. He
 
 ![](/img/julien_tap_metabolomics_fermented_foods_utrecht.jfif)
 
-Julien underscore how effect fermented foods in promoting gut health might depend on gut microbiome states. In addition, using preliminary data from [SynthPlex](/project/synthplex/) and [MetaSimFood](/project/metasimfood/), he showed that the interaction between the strains in fermented foods and the metabolites in the food matrix is complex, suggesting that the potential benefits of fermented foods require further exploration.
+Julien underscore how effect fermented foods in promoting gut health might depend on gut microbiome states. In addition, using preliminary data from [SynthPlex](/projects/synthplex/) and [MetaSimFood](/projects/metasimfood/), he showed that the interaction between the strains in fermented foods and the metabolites in the food matrix is complex, suggesting that the potential benefits of fermented foods require further exploration.
 
 Slides from Julien's talk are available here: [https://hal.inrae.fr/hal-04489205](https://hal.inrae.fr/hal-04489205)
 

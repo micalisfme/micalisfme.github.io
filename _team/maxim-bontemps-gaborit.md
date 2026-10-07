@@ -27,7 +27,7 @@ particular focus on microbiota and the One Health approach.
 This interest led him to carry out his final-year internship in the Food
 Microbial Ecology Laboratory at the Micalis Institute. Under the supervision of
 [Julien Tap](/team/julien-tap) and [William Bourelle](/team/william-bourelle), 
-he is involved in the [MicroEngine](project/microengine/) research
+he is involved in the [MicroEngine](/projects/microengine/) research
 project. His internship focuses on refining and validating microbial consortia
 identified through in silico modeling and experimental screening, by leveraging
 metatranscriptomics to unravel metabolic interactions and strain helper effects.

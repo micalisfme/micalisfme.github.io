@@ -72,8 +72,18 @@ layout: default
 <div class="content">
 <p class="title is-4">Related news</p>
 <div class="card">
+{% assign project_name = page.title | strip | downcase %}
 {% for post in site.posts %}
-    {% if post.projects_tag contains page.title %}
+    {% assign project_tags = post.projects_tag | join: ',' | downcase | split: ',' %}
+    {% assign related_to_project = false %}
+    {% for project_tag in project_tags %}
+        {% assign normalized_tag = project_tag | strip %}
+        {% if normalized_tag == project_name %}
+            {% assign related_to_project = true %}
+            {% break %}
+        {% endif %}
+    {% endfor %}
+    {% if related_to_project %}
         <div class="columns is-vcentered">
             <!-- Image Column -->
             <div class="column is-3">

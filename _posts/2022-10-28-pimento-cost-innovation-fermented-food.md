@@ -24,4 +24,4 @@ Over the last 3 days, together with scientists and representatives from differen
 Marie animated a dedicated workshop about innovation for fermented food (WG4 task)
 
 
-[header image by ccPixs.com](www.ccPixs.com)
+[header image by ccPixs.com](https://www.ccPixs.com)

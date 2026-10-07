@@ -17,7 +17,7 @@ The final conference of the [Human Microbiome Action](https://humanmicrobiomeact
 
 ![](/img/2024_news_HMA.png)
 
-Stéphane Chaillou (INRAE), as coordinator of [#DominoEU](/project/domino/) project, participated in the last panel discussion “Where Will Microbiome Research Lead Us?  Vision and Roadmap for Future Endeavours” together with Tanja Kostic (#MicrobiomeSupport Association; Austrian Institute of Technology), Carolina Alves Costa Silva (#ONCOBIOME; Gustave Roussy), Federica Carraturo (#GEMMA; University of Naples), and Stephan Kampshoff (Eufic) as moderator. Following a very interesting overview given by Emmanuelle Maguin on “Identifying the Most Pressing Research Questions for Future Studies » ; We gave and discussed with the audience our views on specific research opportunities concerning the link between healthy microbiomes and diet or diseases. 
+Stéphane Chaillou (INRAE), as coordinator of [#DominoEU](/projects/domino/) project, participated in the last panel discussion “Where Will Microbiome Research Lead Us?  Vision and Roadmap for Future Endeavours” together with Tanja Kostic (#MicrobiomeSupport Association; Austrian Institute of Technology), Carolina Alves Costa Silva (#ONCOBIOME; Gustave Roussy), Federica Carraturo (#GEMMA; University of Naples), and Stephan Kampshoff (Eufic) as moderator. Following a very interesting overview given by Emmanuelle Maguin on “Identifying the Most Pressing Research Questions for Future Studies » ; We gave and discussed with the audience our views on specific research opportunities concerning the link between healthy microbiomes and diet or diseases.
 
 
 A specific great snapshop from #DominoEU colleagues (Emmanuelle, Debora and Dascha) as #microbiome ambassadors ! 

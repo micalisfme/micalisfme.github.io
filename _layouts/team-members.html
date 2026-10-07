@@ -28,7 +28,7 @@ show_sidebar: false
         {% if people.image %}
         <div class="card-image">
           <figure class="image is-1by1 is-fullwidth">
-            <img src="{{ people.image }}" alt="{{ people.title }}" style="object-fit: cover;"/>
+            <img src="{{ people.image | relative_url }}" alt="{{ people.title }}" style="object-fit: cover;"/>
           </figure>
         </div>
         {% endif %}
@@ -69,7 +69,7 @@ show_sidebar: false
           {% if people.image %}
           <div class="card-image">
             <figure class="image is-1by1 is-fullwidth">
-              <img src="{{ people.image }}" alt="{{ people.title }}" style="object-fit: cover;"/>
+              <img src="{{ people.image | relative_url }}" alt="{{ people.title }}" style="object-fit: cover;"/>
             </figure>
           </div>
           {% endif %}

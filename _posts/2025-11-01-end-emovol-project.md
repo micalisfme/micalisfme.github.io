@@ -23,7 +23,7 @@ This project, which began in 2020, ran for five years (one year of set-up and fo
 
 ### A scientific approach serving industrial innovation
 
-![](/img/emovol_models.jpg)
+![](/img/emovol_models.png)
 
 The aim of this ambitious project was to develop a method for assessing the preservation potential of batches of cooked processed poultry meat by quantifying certain microbial biomarkers present in the raw meat used to produce these same batches.
 
